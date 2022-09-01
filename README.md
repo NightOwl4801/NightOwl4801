@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deshaun
+- 👋 Hi
 - 👀 I’m interested in data analysis, data science and python programming.
 - 🌱 I’m currently learning python with a focus in the data science field.
 
